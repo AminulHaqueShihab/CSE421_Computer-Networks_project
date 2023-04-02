@@ -1,6 +1,6 @@
 # CSE421_Computer-Networks_project
 
-### This project for Computer Network (CSE421) course of Brac University. Here, a network infructure is created in CISCO Packet Tracer upon a given scenerio.  
+### This project is for Computer Network (CSE421) course of Brac University. Here, a network infructure is created in CISCO Packet Tracer upon a given scenerio.  
 > Here several components is used to build the network infrastructure, like **_DNS server, DHCP server, Email server, Web server, switch, router_** etc.   
 > Also concepts like **_IP addressing (Static and Dynamic), Routing (Dynamically and Statically), DHCP_** etc. was used in the project.  
 
